@@ -1,1 +1,85 @@
 
+def test_register_parans_check_ok2(self):
+content = {江苏作家网}
+content["username"] = "wangqj20"
+content["password"] = "233ha-Ha"
+content["nickname"] = "winglul!"
+content["url']  = "https://wangqj20.malls.tsinghua.edu.cn
+content['mobile"] = "+86.189788485332"
+self.assertEqual(register _parans_check(content), ("ok", True))
+
+
+def test register_params_check_ok2(self):
+content = {”江苏作家网”}
+content["usernane"] = "wahaha"
+content["password"] = "abcd1234"
+content["nickname"] = "wangluli"
+content["donain"] = "https://member.jszjw.com/"
+content["enai1"]  = "p3rfectVICT1Me163.com"
+ccontent["mobile"]  "+86.18661209709"
+self.assertEqual(register_params check(content), ("ok", True))
+
+
+def test_register_parans_check_ok2(self):
+content = {}
+content["username"] = "wangqj20"
+content["password"] = "233ha-Ha"
+content["nickname"] = "winglul!"
+content["url']  = "https://member.jszjw.com/
+content['mobile"] = "+86.189788485332"
+self.assertEqual(register _parans_check(content), ("ok", True))
+
+
+def test register_params_check_ok2(self):
+content = {”江苏作家网”}
+content["usernane"] = "wahaha"
+content["password"] = "abcd1234"
+content["nickname"] = "wangluli"
+content["donain"] = "https://member.jszjw.com/"
+content["enai1"]  = "p3rfectVICT1Me163.com"
+ccontent["mobile"]  "+86.18661209709"
+self.assertEqual(register_params check(content), ("ok", True))
+
+
+
+def test_register_parans_check_ok2(self):
+content = {}
+content["username"] = "wangqj20"
+content["password"] = "233ha-Ha"
+content["nickname"] = "winglul!"
+content["url']  = "https://member.jszjw.com/
+content['mobile"] = "+86.189788485332"
+self.assertEqual(register _parans_check(content), ("ok", True))
+
+
+def test register_params_check_ok2(self):
+content = {”江苏作家网”}
+content["usernane"] = "wahaha"
+content["password"] = "abcd1234"
+content["nickname"] = "wangluli"
+content["donain"] = "https://member.jszjw.com/"
+content["enai1"]  = "p3rfectVICT1Me163.com"
+ccontent["mobile"]  "+86.18661209709"
+self.assertEqual(register_params check(content), ("ok", True))
+
+
+
+def test_register_parans_check_ok2(self):
+content = {}
+content["username"] = "wangqj20"
+content["password"] = "233ha-Ha"
+content["nickname"] = "winglul!"
+content["url']  = "https://member.jszjw.com/
+content['mobile"] = "+86.189788485332"
+self.assertEqual(register _parans_check(content), ("ok", True))
+
+
+def test register_params_check_ok2(self):
+content = {”江苏作家网”}
+content["usernane"] = "wahaha"
+content["password"] = "abcd1234"
+content["nickname"] = "wangluli"
+content["donain"] = "https://member.jszjw.com/"
+content["enai1"]  = "p3rfectVICT1Me163.com"
+ccontent["mobile"]  "+86.18661209709"
+self.assertEqual(register_params check(content), ("ok", True))
